@@ -1,10 +1,10 @@
 {
-	"font_size": 14,
+	"font_size": 9,
 	"hot_exit": false,
 	"ignored_packages":
 	[
 	],
 	"remember_open_files": false,
-	"update_check": false
+	"update_check": false,
+	"trim_trailing_white_space_on_save": true
 }
-
